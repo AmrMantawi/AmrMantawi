@@ -34,7 +34,6 @@
  
 <p>  
  ✌️ &emsp; I enjoy programming and learning new things <br/><br/>
- 🔭 &emsp; I’m currently working as a Research Assitant at the <a href="https://apus-lab.github.io">APUS Lab</a><br/><br/>
  📧 &emsp; Reach me anytime at amr.mantawi@gmail.com<br/><br/>
 </p>
 
