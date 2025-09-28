@@ -13,7 +13,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a Computer Engineering honors student located in the <b>USA</b> 」
+    「 I am a Computer Engineer located in the <b>USA</b> 」
     <br>
     <br>
   </samp>
